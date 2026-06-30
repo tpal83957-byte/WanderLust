@@ -306,7 +306,6 @@ Feel free to fork this repository and submit a Pull Request.
 ### Tanya Pal
 
 - GitHub: https://github.com/tpal83957-byte
-- LinkedIn: YOUR_LINKEDIN_PROFILE
 
 ---
 
