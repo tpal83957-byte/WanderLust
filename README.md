@@ -292,15 +292,6 @@ Working on WanderLust helped me gain practical experience with:
 - 📊 Admin Dashboard
 
 ---
-
-# 🤝 Contributing
-
-Contributions, suggestions, and improvements are always welcome.
-
-Feel free to fork this repository and submit a Pull Request.
-
----
-
 # 👩‍💻 Author
 
 ### Tanya Pal
